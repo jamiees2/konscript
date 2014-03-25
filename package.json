@@ -1,0 +1,20 @@
+{
+  "name": "dogescript",
+  "version": "2.3.0",
+  "description": "wow so syntax very doge much future",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/remixz/dogescript.git"
+  },
+  "keywords": [
+    "wow"
+  ],
+  "author": "Zach Bruggeman <zachb@diy.org>",
+  "license": "MIT",
+  "dependencies": {
+    "optimist": "~0.6.0",
+    "js-beautify": "~1.4.2"
+  },
+  "bin": "./bin/dogescript.js"
+}
