@@ -53,5 +53,5 @@ Used in `medan`, `fyrir` and `ef`.
 ### standard objects
 
 * `konnsole.kon` - `console.log`
-* `konniment` - 'document'
+* `konniment` - `document`
 * `winkonni` - `window`
