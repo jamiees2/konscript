@@ -1,6 +1,5 @@
 This is an implementation of the now best language ever! (konscript)
 
-And yes, I am very aware I went about a very, er, *non-conventional*, way of parsing a language, and is probably riddled with bugs and edge-cases. However, this is dogescript, so anything goes!
 
 ```
     konni konscript er 'very konni'
