@@ -1,20 +1,20 @@
 {
-  "name": "dogescript",
-  "version": "2.3.0",
-  "description": "wow so syntax very doge much future",
+  "name": "konscript",
+  "version": "1.0.0",
+  "description": "konni kon konni konni",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/remixz/dogescript.git"
+    "url": "https://github.com/jamiees2/konscript.git"
   },
   "keywords": [
-    "wow"
+    "konni"
   ],
-  "author": "Zach Bruggeman <zachb@diy.org>",
+  "author": "James Elías <jamiees2@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "optimist": "~0.6.0",
     "js-beautify": "~1.4.2"
   },
-  "bin": "./bin/dogescript.js"
+  "bin": "./bin/konscript.js"
 }
