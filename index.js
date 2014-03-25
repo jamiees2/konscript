@@ -1,12 +1,13 @@
 /**
- * dogescript - wow so syntax such language
+ * konscript - konni konni kon
  *
- * Copyright (c) 2013 Zach Bruggeman
+ * Copyright (c) 2014 James Elías
+ * Based on dogescript by Zach Bruggeman <talkto@zachbruggeman.me> https://github.com/remixz/dogescript.git
  *
- * dogescript is licensed under the MIT License.
+ * konscript is licensed under the MIT License.
  *
- * @package dogescript
- * @author  Zach Bruggeman <talkto@zachbruggeman.me>
+ * @package konscript
+ * @author  James Elías <jamiees2@gmail.com>
  */
 
 var beautify = require('js-beautify').js_beautify;

@@ -1,0 +1,79 @@
+komment THIS IS KONSCRIPT
+
+konment
+    konscript
+koomment
+
+konnict
+
+kon konni
+kon konni k kon
+
+konni konscript er 'very konni'
+
+kdef konn med foo bar bat
+    kall console.kon med foo
+    kdef nested
+        kall console.kon med ['konni', 'kon']
+    enda
+    kall nested
+enda bar
+
+kall woof med 'konni', 'konni', 'konni konni'
+
+kon cat er 'konni'
+
+ef cat er 'cay'
+    kall console.kon med 'konni konni'
+en ef cat er 'konni'
+    kall console.kon med 'konni'
+en
+    kall console.kon med 'KONNI'
+enda
+
+medan konn er 'konni' og konn erekki 'ekkikonni' eda konn er 'EKKIKONNI'
+    kall console.kon med {konni: 'konni'}
+enda
+
+ef konn er 'konni only' og konn erekki 'ekkikonni' eda konn er 'EKKIKONNI'
+    kall console.kon med {konni: 'konni'}
+enda
+
+fyrir konni konn sem 1 komma konn minnaen 3 komma konn plus 1
+    kall console.kon med {such: 'doge'}
+enda
+
+komment konni style
+konni konn2 is 4
+fyrir konni i sem 1 komma n minnaen 10 komma n plus 1
+  ef i staerraen 2
+    kall console.kon med {konni: i}
+  enda
+enda
+
+
+komment kedjuverkun chaining
+konni canvas is kall d3.select med 'body'&
+punktur append med 'canvas'&
+punktur attr med 'width', width&
+punktur attr med 'height', height
+
+konni regex er new RegExp med keyword, 'g'
+konni regex2 er new RegExp med 'doge', 'g'
+
+konni arr er new Array med 0
+
+obj er new Object
+
+module.exports er woof
+
+komment example http server
+kon http
+http punktur createServer med falli req res
+   req punktur writeHead med 200 {'Content-Type': 'text/plain'}
+   req punktur end med 'KONNI\nKONNI'
+enda&
+.kall listen med 8080
+
+winkonni.konni er 'svo næs'
+konni dogelement er kall konniment.createElement med 'konni'
