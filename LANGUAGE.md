@@ -7,7 +7,7 @@
 
 ### files
 
-konscript files are `.kjs`. Should konscript be ported to other languages, the `js` portion may be changed to reflect the new language. (dogeby => `.krb`)
+konscript files are `.kjs`. Should konscript be ported to other languages, the `js` portion may be changed to reflect the new language. (konnby => `.krb`)
 
 ### language
 
@@ -52,6 +52,6 @@ Used in `medan`, `fyrir` and `ef`.
 
 ### standard objects
 
-* `console.kon` - `console.log`
+* `konnsole.kon` - `console.log`
 * `konniment` - 'document'
 * `winkonni` - `window`
