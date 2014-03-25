@@ -28,7 +28,7 @@ konscript files are `.kjs`. Should konscript be ported to other languages, the `
 * `fyrir [params]` - `for ([params])`
 * `kon [module]` - `var [module] = require([module])`
 * `kon [module] k [name]` - `var [name] = require([module])`
-* `punktur` - `.` (example: `console punktur kon med 'konni' => console.log('such dot notation')`)
+* `punktur` - `.` (example: `konnsole punktur kon med 'konni' => console.log('konni')`)
 * `konnict` - `"use strict"`
 
 ### operators
