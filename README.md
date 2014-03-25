@@ -8,7 +8,7 @@ And yes, I am very aware I went about a very, er, *non-conventional*, way of par
 	kdef konn med foo bar bat
 	    kall console.kon med foo
 	    kdef nested
-	        kall console.kon med ['konni', 'kon']
+	        kall konnsole.kon med ['konni', 'kon']
 	    enda
 	    kall nested
 	enda bar
