@@ -4,7 +4,6 @@
 
 * konscript uses single quotes for strings. Double quotes are not supported.
 * konscript uses 4 space characters for indentation. Tabs are not supported.
-* konscript seperates statements by newlines by default. In true-doge mode, they are separated by 3 spaces.
 
 ### files
 
