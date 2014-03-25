@@ -12,9 +12,9 @@ kon konni k kon
 konni konscript er 'very konni'
 
 kdef konn med foo bar bat
-    kall console.kon med foo
+    kall konnsole.kon med foo
     kdef nested
-        kall console.kon med ['konni', 'kon']
+        kall konnsole.kon med ['konni', 'kon']
     enda
     kall nested
 enda bar
@@ -24,30 +24,30 @@ kall woof med 'konni', 'konni', 'konni konni'
 kon cat er 'konni'
 
 ef cat er 'cay'
-    kall console.kon med 'konni konni'
+    kall konnsole.kon med 'konni konni'
 en ef cat er 'konni'
-    kall console.kon med 'konni'
+    kall konnsole.kon med 'konni'
 en
-    kall console.kon med 'KONNI'
+    kall konnsole.kon med 'KONNI'
 enda
 
 medan konn er 'konni' og konn erekki 'ekkikonni' eda konn er 'EKKIKONNI'
-    kall console.kon med {konni: 'konni'}
+    kall konnsole.kon med {konni: 'konni'}
 enda
 
 ef konn er 'konni only' og konn erekki 'ekkikonni' eda konn er 'EKKIKONNI'
-    kall console.kon med {konni: 'konni'}
+    kall konnsole.kon med {konni: 'konni'}
 enda
 
 fyrir konni konn sem 1 komma konn minnaen 3 komma konn plus 1
-    kall console.kon med {such: 'doge'}
+    kall konnsole.kon med {such: 'doge'}
 enda
 
 komment konni style
 konni konn2 is 4
 fyrir konni i sem 1 komma n minnaen 10 komma n plus 1
   ef i staerraen 2
-    kall console.kon med {konni: i}
+    kall konnsole.kon med {konni: i}
   enda
 enda
 
