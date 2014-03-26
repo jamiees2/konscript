@@ -40,7 +40,7 @@ ef konn er 'konni only' og konn erekki 'ekkikonni' eda konn er 'EKKIKONNI'
 enda
 
 fyrir konni konn sem 1 komma konn minnaen 3 komma konn plus 1
-    kall konnsole.kon med {such: 'doge'}
+    kall konnsole.kon med {konni: 'konni'}
 enda
 
 komment konni style
@@ -59,7 +59,7 @@ punktur attr med 'width', width&
 punktur attr med 'height', height
 
 konni regex er new RegExp med keyword, 'g'
-konni regex2 er new RegExp med 'doge', 'g'
+konni regex2 er new RegExp med 'konni', 'g'
 
 konni arr er new Array med 0
 
