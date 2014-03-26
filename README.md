@@ -35,7 +35,7 @@ Options:
 `konscript(file, beauty, trueKon)`
 * `file` - A string of Konscript.
 * `beauty` - A boolean, set to true if you want the output to be ran through a beautifier.
-* `trueKon` - A boolean, set to true if you want to enable true-doge mode.
+* `trueKon` - A boolean, set to true if you want to enable true-konni mode.
 
 ### Language
 
